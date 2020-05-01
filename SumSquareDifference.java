@@ -23,5 +23,6 @@ class SumSquareDifference {
 
         System.out.println(((int) Math.pow(y, 2)) - (x));
         
+        
     }    
 }
